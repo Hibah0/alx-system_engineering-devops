@@ -1,1 +1,1 @@
-shell, init files, variables
+script that prints hello you
