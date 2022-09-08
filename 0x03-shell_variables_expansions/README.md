@@ -1,1 +1,1 @@
-script that prints hello you
+path
